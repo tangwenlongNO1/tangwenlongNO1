@@ -2,4 +2,4 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@tangwenlongNO1?theme=rule34" alt="Moe Counter" title="萌萌计数器"></a>
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tangwenlongNO1&repo=freenode)](https://github.com/anuraghazra/github-readme-stats)
+
