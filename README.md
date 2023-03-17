@@ -1,5 +1,5 @@
 ## 📫 Contact
-[![tg](https://img.shields.io/badge/t.me-%40twltel-purple)](t.me/twltel)
+[![tg](https://img.shields.io/badge/t.me-%40twltel-purple)](https://t.me/twltel)
 [![gmail](https://img.shields.io/badge/Gmail-%40twl-red)](mailto:twl102841@gmail.com)
 
 ## :zap: Github Stats
@@ -8,6 +8,6 @@
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/tangwenlongNO1)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
 
 ## 👇 Channel
-[![tg](https://img.shields.io/badge/channel-clash-bringgreen)](t.me/clash_for_win)
-[![tg](https://img.shields.io/badge/channel-WTO-ff69b4)](t.me/WTOgaoqing)
+[![tg](https://img.shields.io/badge/channel-clash-bringgreen)](https://t.me/clash_for_win)
+[![tg](https://img.shields.io/badge/channel-WTO-ff69b4)](https://t.me/WTOgaoqing)
 
