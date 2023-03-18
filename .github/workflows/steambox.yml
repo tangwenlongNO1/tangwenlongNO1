@@ -2,9 +2,9 @@ name: Update steam playtime
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
   schedule:
     - cron: "10 * * * *"
 
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 62fa160542e61ac240820bc0b02b5632
+      GIST_ID: 224dfd222c799c2f2673354824498d1e
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
