@@ -7,7 +7,8 @@ on:
     branches: [main]
   schedule:
     - cron: "10 * * * *"
-
+permissions:
+  contents: write
 jobs:
   build:
     name: Update-steam-playtime
