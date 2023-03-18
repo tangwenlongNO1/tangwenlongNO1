@@ -12,7 +12,7 @@
 [![tg](https://img.shields.io/badge/channel-WTO-ff69b4)](https://t.me/WTOgaoqing)
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/224dfd222c799c2f2673354824498d1e" target="_blank">🎮 最近我在玩…</a>
+#### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🚓 Grand Theft Auto V                🕘 6 hrs 54 mins
 ```
