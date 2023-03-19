@@ -5,7 +5,7 @@
 ## :zap: Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangwenlongNO1&hide=stars,prs&count_private=true&show_icons=true&theme=radical&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/tangwenlongNO1)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+<!--[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/tangwenlongNO1)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)-->
 
 ## 👇 Channel
 [![tg](https://img.shields.io/badge/channel-clash-bringgreen)](https://t.me/clash_for_win)
@@ -27,3 +27,7 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
+
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=asoul"></a>
+ </p>
