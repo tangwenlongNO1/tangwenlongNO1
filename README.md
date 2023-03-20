@@ -15,7 +15,7 @@
 [![tg](https://img.shields.io/badge/channel-WTO-ff69b4)](https://t.me/WTOgaoqing)
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🚓 Grand Theft Auto V               🕘 1885 hrs 21 mins
 🎮 The Witcher 3: Wild Hunt         🕘 286 hrs 31 mins
