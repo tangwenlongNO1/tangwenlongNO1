@@ -5,6 +5,9 @@
 ## :zap: Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangwenlongNO1&hide=stars,prs&count_private=true&show_icons=true&theme=radical&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangwenlongno1&" alt="tangwenlongno1" /></p>
+
+
 <!--[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/tangwenlongNO1)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)-->
 
 ## 👇 Channel
