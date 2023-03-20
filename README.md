@@ -32,5 +32,5 @@ Java      🕓 2m  █▏░░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://moe-counter.glitch.me/get/@tangwenlongNO1?theme=rule34"></a>
  </p>
