@@ -17,7 +17,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🚓 Grand Theft Auto V                🕘 9 hrs 23 mins
+🚓 Grand Theft Auto V                🕘 9 hrs 46 mins
 🎮 The Witcher 3: Wild Hunt          🕘 1 hrs 3 mins
 💻 Wallpaper Engine                  🕘 9 hrs 0 mins
 ```
