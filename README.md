@@ -19,7 +19,7 @@
 ```text
 🚓 Grand Theft Auto V                🕘 9 hrs 36 mins
 🎮 The Witcher 3: Wild Hunt          🕘 1 hrs 32 mins
-💻 Wallpaper Engine                  🕘 4 hrs 32 mins
+💻 Wallpaper Engine                  🕘 3 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
