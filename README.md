@@ -3,7 +3,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-%40twl-red)](mailto:twl102841@gmail.com)
 
 ## :zap: Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangwenlongNO1&hide=stars,prs&count_private=true&show_icons=true&theme=radical&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=tangwenlongNO1&hide=stars,prs&count_private=true&show_icons=true&theme=radical&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tangwenlongno1&" alt="tangwenlongno1" /></p>
 
