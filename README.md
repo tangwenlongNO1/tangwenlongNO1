@@ -18,7 +18,7 @@
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🚓 Grand Theft Auto V                🕘 0 hrs 50 mins
-🎮 The Witcher 3: Wild Hunt          🕘 1 hrs 4 mins
+🎮 The Witcher 3: Wild Hunt          🕘 0 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
