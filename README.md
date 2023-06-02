@@ -17,7 +17,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🚓 Grand Theft Auto V                🕘 0 hrs 9 mins
+🚓 Grand Theft Auto V                🕘 0 hrs 45 mins
 💻 Wallpaper Engine                  🕘 25 hrs 21 mins
 🎮 Tomb Raider                       🕘 1 hrs 39 mins
 ```
