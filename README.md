@@ -19,7 +19,7 @@
 ```text
 🚓 Grand Theft Auto V                🕘 1 hrs 26 mins
 💻 Wallpaper Engine                  🕘 25 hrs 21 mins
-🎮 Tomb Raider                       🕘 1 hrs 39 mins
+🎮 Tomb Raider                       🕘 2 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
