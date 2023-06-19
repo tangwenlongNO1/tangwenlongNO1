@@ -17,8 +17,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🚓 Grand Theft Auto V                🕘 1 hrs 34 mins
-🎮 Tomb Raider                       🕘 2 hrs 15 mins
+🚓 Grand Theft Auto V                🕘 1 hrs 27 mins
+🎮 Tomb Raider                       🕘 1 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
