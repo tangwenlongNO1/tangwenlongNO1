@@ -17,7 +17,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 5 hrs 30 mins
+💻 Wallpaper Engine                  🕘 4 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
