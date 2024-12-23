@@ -1,3 +1,5 @@
+## 📌 HightLights
+[![wakatime](https://wakatime.com/badge/user/27e8a095-1d6f-4b06-bfec-6540f6e1a642.svg)](https://wakatime.com/@27e8a095-1d6f-4b06-bfec-6540f6e1a642)
 ## 📫 Contact
 [![tg](https://img.shields.io/badge/t.me-%40twltel-purple)](https://t.me/twltel)
 [![gmail](https://img.shields.io/badge/Gmail-%40twl-red)](mailto:twl102841@gmail.com)
