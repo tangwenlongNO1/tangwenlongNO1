@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🚓 Grand Theft Auto V Legacy         🕘 19 hrs 48 mins
+🚓 Grand Theft Auto V Legacy         🕘 19 hrs 56 mins
 💻 Wallpaper Engine                  🕘 0 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
