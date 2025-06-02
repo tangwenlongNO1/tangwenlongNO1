@@ -21,7 +21,7 @@
 ```text
 🚓 Grand Theft Auto V Legacy         🕘 34 hrs 22 mins
 💻 Wallpaper Engine                  🕘 0 hrs 9 mins
-🎮 Grand Theft Auto V Enhanced       🕘 2 hrs 6 mins
+🎮 Grand Theft Auto V Enhanced       🕘 2 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
