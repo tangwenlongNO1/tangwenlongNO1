@@ -22,7 +22,7 @@
 🚓 Grand Theft Auto V Legacy         🕘 26 hrs 32 mins
 🎮 The Witcher 3: Wild Hunt          🕘 1 hrs 56 mins
 💻 Wallpaper Engine                  🕘 1 hrs 59 mins
-🎮 Grand Theft Auto V Enhanced       🕘 18 hrs 24 mins
+🎮 Grand Theft Auto V Enhanced       🕘 18 hrs 54 mins
 🎮 Last Man Standing                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
