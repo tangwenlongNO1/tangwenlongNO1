@@ -20,9 +20,9 @@
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🚓 Grand Theft Auto V Legacy         🕘 4 hrs 7 mins
-🎮 The Witcher 3: Wild Hunt          🕘 12 hrs 12 mins
-💻 Wallpaper Engine                  🕘 12 hrs 19 mins
-🎮 Grand Theft Auto V Enhanced       🕘 50 hrs 26 mins
+🎮 The Witcher 3: Wild Hunt          🕘 13 hrs 13 mins
+💻 Wallpaper Engine                  🕘 13 hrs 19 mins
+🎮 Grand Theft Auto V Enhanced       🕘 51 hrs 26 mins
 🎮 Last Man Standing                 🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
