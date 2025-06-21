@@ -21,7 +21,7 @@
 ```text
 🎮 The Witcher 3: Wild Hunt          🕘 13 hrs 59 mins
 💻 Wallpaper Engine                  🕘 14 hrs 8 mins
-🎮 Grand Theft Auto V Enhanced       🕘 58 hrs 32 mins
+🎮 Grand Theft Auto V Enhanced       🕘 58 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
