@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 The Witcher 3: Wild Hunt          🕘 11 hrs 0 mins
-💻 Wallpaper Engine                  🕘 11 hrs 8 mins
-🎮 Grand Theft Auto V Enhanced       🕘 48 hrs 39 mins
+🎮 The Witcher 3: Wild Hunt          🕘 10 hrs 29 mins
+💻 Wallpaper Engine                  🕘 10 hrs 38 mins
+🎮 Grand Theft Auto V Enhanced       🕘 48 hrs 9 mins
 🎮 Black Myth: Wukong                🕘 6 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
