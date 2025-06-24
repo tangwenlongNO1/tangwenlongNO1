@@ -21,8 +21,8 @@
 ```text
 🎮 The Witcher 3: Wild Hunt          🕘 8 hrs 59 mins
 💻 Wallpaper Engine                  🕘 9 hrs 1 mins
-🎮 Grand Theft Auto V Enhanced       🕘 43 hrs 10 mins
-🎮 Black Myth: Wukong                🕘 11 hrs 17 mins
+🎮 Grand Theft Auto V Enhanced       🕘 42 hrs 27 mins
+🎮 Black Myth: Wukong                🕘 11 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
