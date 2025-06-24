@@ -20,7 +20,7 @@
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 The Witcher 3: Wild Hunt          🕘 8 hrs 59 mins
-💻 Wallpaper Engine                  🕘 9 hrs 8 mins
+💻 Wallpaper Engine                  🕘 9 hrs 1 mins
 🎮 Grand Theft Auto V Enhanced       🕘 44 hrs 43 mins
 🎮 Black Myth: Wukong                🕘 9 hrs 46 mins
 ```
