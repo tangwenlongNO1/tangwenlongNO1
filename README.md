@@ -21,7 +21,7 @@
 ```text
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 Grand Theft Auto V Enhanced       🕘 17 hrs 41 mins
-🎮 Black Myth: Wukong                🕘 32 hrs 0 mins
+🎮 Black Myth: Wukong                🕘 33 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
