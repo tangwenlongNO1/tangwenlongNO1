@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 Grand Theft Auto V Enhanced       🕘 12 hrs 55 mins
+💻 Wallpaper Engine                  🕘 0 hrs 4 mins
+🎮 Grand Theft Auto V Enhanced       🕘 12 hrs 22 mins
 🎮 Black Myth: Wukong                🕘 39 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
