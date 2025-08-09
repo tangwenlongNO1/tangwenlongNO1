@@ -19,10 +19,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Black Myth: Wukong                🕘 37 hrs 50 mins
-🎮 Grand Theft Auto V Enhanced       🕘 28 hrs 7 mins
-💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 Tomb Raider                       🕘 2 hrs 54 mins
+🎮 Black Myth: Wukong                🕘 36 hrs 56 mins
+🎮 Grand Theft Auto V Enhanced       🕘 28 hrs 54 mins
+🎮 Tomb Raider                       🕘 3 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
