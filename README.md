@@ -21,7 +21,7 @@
 ```text
 🎮 Black Myth: Wukong                🕘 30 hrs 23 mins
 🎮 Grand Theft Auto V Enhanced       🕘 32 hrs 12 mins
-🎮 Tomb Raider                       🕘 5 hrs 36 mins
+🎮 Tomb Raider                       🕘 6 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
