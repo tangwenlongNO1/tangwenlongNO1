@@ -22,7 +22,7 @@
 🎮 Black Myth: Wukong                🕘 23 hrs 44 mins
 🎮 Grand Theft Auto V Enhanced       🕘 11 hrs 16 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 Tomb Raider                       🕘 4 hrs 2 mins
+🎮 Tomb Raider                       🕘 3 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
