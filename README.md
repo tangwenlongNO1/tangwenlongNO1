@@ -20,7 +20,7 @@
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Black Myth: Wukong                🕘 22 hrs 56 mins
-🎮 Grand Theft Auto V Enhanced       🕘 12 hrs 33 mins
+🎮 Grand Theft Auto V Enhanced       🕘 11 hrs 47 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 Tomb Raider                       🕘 4 hrs 59 mins
 ```
