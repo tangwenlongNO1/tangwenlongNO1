@@ -21,7 +21,7 @@
 ```text
 🎮 Black Myth: Wukong                🕘 8 hrs 26 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 这是谐音梗 Demo                        🕘 0 hrs 21 mins
+🎮 这是谐音梗 Demo                        🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
