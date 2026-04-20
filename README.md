@@ -27,8 +27,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/2da313c85a908b12cb8d9647cf806b3c" target="_blank">📊 每周工作报告</a>
 ```text
-Other 🕓 9h27m ████████████████████████████████▋ 99.2%
-TeX   🕓 4m    ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.8%
+Other 🕓 9h2m █████████████████████████████████▊ 99.5%
+TeX   🕓 2m   ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.5%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
