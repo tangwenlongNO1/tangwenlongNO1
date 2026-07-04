@@ -21,6 +21,7 @@
 ```text
 🎮 Black Myth: Wukong                🕘 7 hrs 6 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
+🎮 Stellar Blade™ Demo               🕘 0 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
