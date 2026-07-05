@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Black Myth: Wukong                🕘 7 hrs 40 mins
+🎮 Black Myth: Wukong                🕘 7 hrs 15 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 Stellar Blade™ Demo               🕘 0 hrs 46 mins
 ```
