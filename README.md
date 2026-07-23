@@ -21,7 +21,6 @@
 ```text
 🎮 Black Myth: Wukong                🕘 5 hrs 38 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 Cyberpunk 2077                    🕘 1 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
