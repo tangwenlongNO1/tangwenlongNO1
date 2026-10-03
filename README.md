@@ -20,7 +20,7 @@
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Black Myth: Wukong                🕘 7 hrs 50 mins
-🎮 The Witcher 3: Wild Hunt — Remastered 🕘 0 hrs 14 mins
+🎮 The Witcher 3: Wild Hunt — Remastered 🕘 1 hrs 22 mins
 💻 Wallpaper Engine                  🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
