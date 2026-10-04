@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8b9cad778980794568613fc243bd91bd" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Black Myth: Wukong                🕘 7 hrs 50 mins
+🎮 Black Myth: Wukong                🕘 7 hrs 31 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 1 hrs 22 mins
-💻 Wallpaper Engine                  🕘 0 hrs 3 mins
+💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
