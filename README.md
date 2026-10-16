@@ -21,7 +21,6 @@
 ```text
 🎮 Black Myth: Wukong                🕘 11 hrs 42 mins
 🎮 The Witcher 3: Wild Hunt — Remastered 🕘 2 hrs 7 mins
-💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
